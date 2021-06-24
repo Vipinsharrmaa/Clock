@@ -6,4 +6,4 @@
 
 **Sample of the Clock is below.**
 
-![Alt Text](clock.gif)
+![clock](clock.gif)
