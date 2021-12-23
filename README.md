@@ -2,8 +2,6 @@
 
 ## Project based on html, css and javascript
 
-### I use the properties like transform and other through the use of JS. It's fully responsive.
-
-**Sample of the Clock is below.**
+### Properties like trnsform and transition of css are used in this project and flex is used to make it fully repsonsive. 
 
 ![clock](clock.gif)
